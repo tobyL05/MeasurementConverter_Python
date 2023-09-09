@@ -4,4 +4,5 @@ Simple measurement converter using Python and Tkinter. Converts between imperial
 Probably should've made it object oriented 
 
 Grade 10 Design Project Term 3 2021
-Demo: https://youtu.be/Ppwg_Us6ZQw
+
+Demo video: https://youtu.be/Ppwg_Us6ZQw
